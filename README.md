@@ -7,3 +7,5 @@ Data Cleaning & Analysis - SQL Server Management Studio 20
 
 Data Visualization - Tableau Public
 
+Project inspired by [Her Data Project channel](https://www.youtube.com/watch?v=PzyZI9uLXvY&t=372s) tutorial, adapted for my portfolio.
+
